@@ -4,14 +4,33 @@ A minimal, production-realistic frontend codebase optimized for rapid prototypin
 
 ## 📚 Documentation
 
+**[→ Full Documentation Index](docs/INDEX.md)** - Complete navigation guide
+
+### Getting Started
 - **[Start Here](docs/START_HERE.md)** - Documentation map and quick navigation
 - **[Get Started](docs/GET_STARTED.md)** - 3-step tutorial to build your first feature
 - **[Quick Start](docs/QUICK_START.md)** - Common tasks and code recipes
+
+### Guides & Reference
 - **[Development Guide](docs/DEVELOPMENT.md)** - Architecture patterns and best practices
 - **[Project Structure](docs/PROJECT_STRUCTURE.md)** - File organization and conventions
 - **[Checklists](docs/CHECKLIST.md)** - Step-by-step guides for common tasks
 - **[Summary](docs/SUMMARY.md)** - Comprehensive overview
 - **[File Tree](docs/TREE.txt)** - Visual project structure
+
+## ⚡ Claude Skills (AI-Powered Acceleration)
+
+This kit includes Claude Skills that automate repetitive tasks:
+
+- **`/scaffold-resource`** - Generate complete CRUD setup (API, hooks, pages, routes) in seconds
+- **`/generate-component`** - Create UI components with variants and tests
+- **`/build-form`** - Build validated forms with React Hook Form + Zod
+
+**Documentation:**
+- **[Skills Guide](docs/SKILLS_GUIDE.md)** - Complete usage guide
+- **[Examples](docs/EXAMPLES.md)** - Real-world use cases and workflows
+- **[Quick Reference](docs/QUICK_REFERENCE.txt)** - Printable cheat sheet
+- **[Implementation Summary](docs/PHASE1_COMPLETE.md)** - Phase 1 details
 
 ## Tech Stack
 
